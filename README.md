@@ -1,5 +1,7 @@
 # Azure Device Compliance Monitor
 
+**Author:** Ariff Mohamed
+
 Real-time device compliance monitoring and remediation scripts for Microsoft Intune and Azure AD managed devices.
 
 ## 📚 Documentation
@@ -26,5 +28,4 @@ Visit our comprehensive documentation site: **[https://compliance.aglobaltec.com
 For questions, issues, or contributions, please visit our documentation at [https://compliance.aglobaltec.com](https://compliance.aglobaltec.com) or create an issue in this repository.
 
 ---
-
 *Streamlining device compliance for modern organizations*
